@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ls
+find . 0x00-shell_basics
